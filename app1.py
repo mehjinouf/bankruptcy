@@ -3,7 +3,8 @@
 
 # In[1]:
 
-
+from sklearn.linear_model import LogisticRegression
+import numpy as np
 import streamlit as st
 import pickle
 
